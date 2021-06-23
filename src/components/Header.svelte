@@ -1,6 +1,4 @@
 <script> 
-  let maxRequests = 5;
-  let currentRequests = 2;
 </script>
 
 <div id="title">
