@@ -19,6 +19,10 @@
 </div>
 
 <style>
+  div {
+    margin-inline: 30px;
+  }
+
   p {
     font-family: 'Raleway';
     font-size: 14px;
